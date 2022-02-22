@@ -4,11 +4,11 @@
 In this project, I designed a website for booking campsites around CANADA. Users can register an account, create a new campsite, and add feedback for an existing campsite.
 
 ## Backend: <br />
-• Apply Express to create full-stack JS applications
+• Apply Express to create full-stack JS applications <br />
 • Use MongoDB to save campsite information
 
 ## Frontend: <br />
-• Utilize Native JavaScript, HTML5
+• Utilize Native JavaScript, HTML5 <br />
 • Use CSS Frameworks including Bootstrap 5, Semantic UI, and Bulma
 
 ## Develop: <br />
