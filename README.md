@@ -18,4 +18,4 @@ In this project, I designed a website for booking campsites around CANADA. Users
 
 • Leverage Postman to monitor and test APIs
 
-Please feel free to click the [URL](https://roycamp.onrender.com)(Note: it could take around 30s to open it because my website is put to sleep after 15 minutes of inactivity) and have a look at this website!
+Please feel free to click the [URL](https://roycamp.onrender.com). You can register a new account or use this provided Guest Account(Email: guest001@gmail.com, Password: 123456). (Note: it could take around 30s to open the application for the first time because the website is put to sleep after 15 minutes of inactivity)
